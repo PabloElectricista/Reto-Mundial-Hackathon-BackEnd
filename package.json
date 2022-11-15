@@ -1,0 +1,29 @@
+{
+  "name": "reto-mundial-hackathon-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorenciaGalindezCasas/Reto-Mundial-Hackathon-BackEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorenciaGalindezCasas/Reto-Mundial-Hackathon-BackEnd/issues"
+  },
+  "homepage": "https://github.com/FlorenciaGalindezCasas/Reto-Mundial-Hackathon-BackEnd#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
