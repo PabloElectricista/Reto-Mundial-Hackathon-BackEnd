@@ -1,4 +1,4 @@
-const jwt_decode = require('jwt_decode');
+const jwt_decode = require('jwt-decode');
 
 const auth = (req, res, next) => {
     let token = req.headers["credential"];
