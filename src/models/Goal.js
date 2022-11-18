@@ -5,4 +5,4 @@ const GoalSchema = new Schema({
   received: { type: [Number] },
 });
 
-module.exports = model("goal", GoalSchema);
+module.exports = model("Goal", GoalSchema);
