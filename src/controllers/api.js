@@ -25,7 +25,7 @@ const setVote = async (req, res, next) => {
 const getStadistics = async (req, res, next) => {
   let { limit = 8 } = req.query
   try {
-    const countries = await Countries.find().sort({ done: -1 }).limit(limit)
+    const countries = await Countries.find().sort({ done: 1 }).limit(limit)
     res.json(countries)
     // res.json(require('./temp.json'));
   } catch (error) {
