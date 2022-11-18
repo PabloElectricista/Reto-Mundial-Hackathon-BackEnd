@@ -13,7 +13,6 @@
 
 - [ ] MongoDB
 - [ ] Mongoose
-- [ ] Jwt-decode
 - [ ] Angular
 
 ## Frontend
@@ -61,28 +60,50 @@ Se debe desarrollar un servidor en Node/Express con las siguientes rutas:
 
 ## Colaboradores
 
-1.  Florencia Galindez Casas:
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: column;">
+
+1. Florencia Galindez Casas:
 
 - **LinkedIn**:
+<a href="#" style="font-size: 15px;">Florencia</a>
   <p>
     <img src="https://avatars.githubusercontent.com/u/94094158?v=4" style="border-radius: 30px; height: 250px;"/>
   </p>
+</div>
+<div style="display: flex; flex-direction: column;">
 
-2.  Pablo Spector:
+2. Pablo Spector:
 
 - **LinkedIn**:
 <a href="https://www.linkedin.com/in/pablo-spector/" style="font-size: 15px;">Pablo</a>
   <p>
     <img src="https://avatars.githubusercontent.com/u/40707996?v=4" style="border-radius: 30px; height: 250px;"/>
   </p>
+</div>
+<div style="display: flex; flex-direction: column;">
 
-3.  Frank Santos:
+3. Frank Santos:
 
 - **LinkedIn**:
-  <a href="https://www.linkedin.com/in/frank-erick-santos-gonzales-80a84015b/" style="font-size: 15px;">Frank</a>
+<a href="https://www.linkedin.com/in/frank-erick-santos-gonzales-80a84015b/" style="font-size: 15px;">Frank</a>
   <p>
     <img src="https://avatars.githubusercontent.com/u/77626612?s=96&v=4" style="border-radius: 30px; height: 250px;"/>
   </p>
+</div>
+<div style="display: flex; flex-direction: column;">
 
-4.  Lainer
-5.  Yeick Jacson
+4. Lainer:
+
+- **LinkedIn**:
+<a href="#" style="font-size: 15px;">Lainer</a>
+</div>
+<div style="display: flex; flex-direction: column;">
+
+5. Yeick Jacson:
+
+- **LinkedIn**:
+  <a href="#" style="font-size: 15px;">Yeick</a>
+
+</div>
+</div>
