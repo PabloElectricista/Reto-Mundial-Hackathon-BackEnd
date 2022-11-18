@@ -26,7 +26,7 @@
 
 **Ruta de creación de Usuarios**:
 
-- [ ] Un formulario **controlado con JavaScript** con los siguientes campos:
+- [ ] Un formulario **controlado con TypeScript** con los siguientes campos:
   - Nombre
   - Email
   - Password
