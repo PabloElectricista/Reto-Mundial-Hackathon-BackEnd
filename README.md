@@ -72,6 +72,9 @@
 
 - **LinkedIn**:
 <a href="https://www.linkedin.com/in/lainer-c%C3%A1ceres-salas" style="font-size: 15px;">Lainer</a>
+<p>
+    <img src="https://avatars.githubusercontent.com/u/81586887?v=4" style="border-radius: 30px; height: 250px;"/>
+  </p>
 </div>
 <div style="display: flex; flex-direction: column;">
 
