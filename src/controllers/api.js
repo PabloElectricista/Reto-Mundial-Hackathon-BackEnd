@@ -30,8 +30,9 @@ const savefases = async (fases) => {
 
 const getStadistics = async (req, res, next) => {
   try {
-    
-    res.json(require('./temp.json'));
+    const countries = await Countries.find().sort({ done: -1 }).limit(limit)
+    res.json(countries)
+    // res.json(require('./temp.json'));
   } catch (error) {
     return next(error);
   }
